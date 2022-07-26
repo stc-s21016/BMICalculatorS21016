@@ -67,8 +67,8 @@ public class MainActivity extends AppCompatActivity {
                         output.setText(R.string.tv_Bmi_u_y);
                         if(inputd <= 15 && inputd >= 7){
                            if(roreru < 100) {
-                           output1.setText(R.string.tv_Bmi_answer_y_r);
-                           output1.setTextColor(Color.rgb(135,206,235));
+                               output1.setText(R.string.tv_Bmi_answer_y_r);
+                               output1.setTextColor(Color.rgb(135,206,235));
                            }
                            else if (roreru >= 100 && roreru < 115) {
                                output1.setText(R.string.tv_Bmi_answer_yg_r);
