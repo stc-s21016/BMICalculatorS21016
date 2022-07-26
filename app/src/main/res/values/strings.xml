@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">最終課題</string>
+    <string name="tv_Bmi_u">あなたの肥満度は</string>
+    <string name="tv_Bmi_u_y">お子さんの肥満度は</string>
+    <string name="tv_Bmi_answer_y">低体重(やせ型)</string>
+    <string name="tv_Bmi_answer_n">普通体重</string>
+    <string name="tv_Bmi_answer_f1">肥満(1度)</string>
+
+    <string name="tv_Bmi_answer_y_y">やせぎみ</string>
+    <string name="tv_Bmi_answer_n_y">ふつう</string>
+    <string name="tv_Bmi_answer_f1_y">ふとりぎみ</string>
+
+    <string name="tv_Bmi_answer_y_r">やせ</string>
+    <string name="tv_Bmi_answer_yg_r">やせぎみ</string>
+    <string name="tv_Bmi_answer_n_r">正常</string>
+    <string name="tv_Bmi_answer_f1_r">肥満気味</string>
+    <string name="tv_Bmi_answer_f2_r">肥満</string>
+
+    <string name="tv_Bmi_answer_f2">肥満(2度)</string>
+    <string name="tv_Bmi_answer_f3">肥満(3度)</string>
+    <string name="tv_Bmi_answer_f4">肥満(4度)</string>
+    <string name="tv_Bmi_u_Ap">あなたの適正体重は</string>
+    <string name="tv_Bmi_u_Ap_y">お子さんの適正体重は</string>
+    <string name="tv_Bmi_u_Ap_y_y">お子さんの適正ガウプ指数は</string>
+    <string name="tv_Bmi_kg">kg</string>
+    <string name="tv_old">年齢</string>
+    <string name="tv_year">歳</string>
+    <string name="tv_height">身長</string>
+    <string name="tv_cm">cm</string>
+    <string name="tv_weight">体重</string>
+    <string name="tv_kg">kg</string>
+    <string name="et_Cal">計算</string>
+    <string name="et_Clear">クリア</string>
+    <string name="Warning">警告</string>
+    <string name="Warning_tx">
+        適切な肥満度を求めるためには、
+        六歳未満の場合はガウプ指数が使われます。
+        また、六歳から十五歳まではローレル指数が使われます。
+    </string>
+    <string name="Warning_answer">確認</string>
+</resources>
